@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohit Lamba</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-- 🔭 I’m currently working on [habit tracker](https://github.com/samar43115/Habit-Tracker)
+- 🔭 I’m currently working on [habit tracker](https://github.com/samar43115/Habit-Tracker) and [recon-ai](https://github.com/mohitlamba65/recon-ai.git)
 
 - 🌱 I’m currently learning **MERN, Next.js, ML**
 
