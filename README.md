@@ -3,10 +3,9 @@
 
 - 🔭 I’m currently working with CodeChip Studios's backend team on [GCCI](https://github.com/themansabmir/gcciBackend) and [ExamPrepAI](https://github.com/themansabmir/examdex-server)
 
+- 👉 My [Portfolio](https://my-portfolio-1ljb.vercel.app/) 
 - 🌱 I’m currently learning **GenAI, Next.js, ML**
-
 - 💬 Ask me about **react, ai, node, mongodb, javascript, python**
-
 - 📫 How to reach me **mohitlamba43@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
