@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohit Lamba</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-- 🔭 I’m currently working with CodeChip Studios Backend team on on [GCCI](https://github.com/themansabmir/gcciBackend) and [ExamPrepAI](https://github.com/themansabmir/examdex-server)
+- 🔭 I’m currently working with CodeChip Studios's backend team on [GCCI](https://github.com/themansabmir/gcciBackend) and [ExamPrepAI](https://github.com/themansabmir/examdex-server)
 
 - 🌱 I’m currently learning **GenAI, Next.js, ML**
 
