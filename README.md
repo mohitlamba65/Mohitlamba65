@@ -1,21 +1,68 @@
-<h1 align="center">Hi 👋, I'm Mohit Lamba</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h1 align="center">Hi there 👋, I'm Mohit Lamba</h1>
+<h3 align="center">Full Stack Developer | GenAI Enthusiast | MERN + AI</h3>
 
-- 🔭 I’m currently working with CodeChip Studios's backend team on [GCCI](https://github.com/themansabmir/gcciBackend) and [ExamPrepAI](https://github.com/themansabmir/examdex-server)
-
-- 👉 My [Portfolio](https://my-portfolio-1ljb.vercel.app/) 
-- 🌱 I’m currently learning **GenAI, Next.js, ML**
-- 💬 Ask me about **react, ai, node, mongodb, javascript, python**
-- 📫 How to reach me **mohitlamba43@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mohit-lamba-b39a3b35a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohit-lamba-b39a3b35a" height="30" width="40" /></a>
+<p align="center">
+🚀 Building production-ready web & AI-driven applications <br/>
+🇮🇳 Based in India <br/>
+🌱 Currently learning GenAI, Next.js & ML
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohitlamba65&show_icons=true&locale=en&layout=compact" alt="mohitlamba65" /></p>
+## 👨‍💻 About Me
+
+I'm a **passionate full stack developer** who loves building real-world products that combine  
+**scalable backend systems, clean frontend UX, and AI-powered features**.
+
+- 🔭 Currently working with **CodeChip Studios (Backend Team)**  
+  - [GCCI Backend](https://github.com/themansabmir/gcciBackend)  
+  - [ExamPrepAI](https://github.com/themansabmir/examdex-server)
+- 💡 Interested in **AI-powered SaaS, automation, and LLM-based products**
+- 💬 Ask me about **React, Node.js, MongoDB, GenAI, APIs**
+- 📫 Reach me at **mohitlamba43@gmail.com**
+- 🌐 Portfolio: **[my-portfolio-1ljb.vercel.app](https://my-portfolio-1ljb.vercel.app/)**
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
+
+### Frontend
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs)
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-000?style=for-the-badge&logo=tailwindcss)
+
+### Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
+![Express.js](https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
+
+### AI / GenAI
+![OpenAI](https://img.shields.io/badge/LLMs-000?style=for-the-badge&logo=openai)
+![LangChain](https://img.shields.io/badge/LangChain-000?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-000?style=for-the-badge)
 
 
+
+## 🤝 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/mohit-lamba-b39a3b35a" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin"/>
+</a>
+<a href="mailto:mohitlamba43@gmail.com">
+  <img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail"/>
+</a>
+</p>
+
+---
+
+⭐ **If you like my work, consider starring a repo or connecting with me!**
