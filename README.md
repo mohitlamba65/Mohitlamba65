@@ -50,7 +50,7 @@ I'm a **passionate full stack developer** who loves building real-world products
 ![LangChain](https://img.shields.io/badge/LangChain-000?style=for-the-badge)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-000?style=for-the-badge)
 
-
+---
 
 ## 🤝 Connect With Me
 
