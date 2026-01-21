@@ -14,7 +14,7 @@
 I'm a **passionate full stack developer** who loves building real-world products that combine  
 **scalable backend systems, clean frontend UX, and AI-powered features**.
 
-- 🔭 Currently working with **CodeChip Studios (Backend Team)**  
+- 🔭 worked with **CodeChip Studios** on:  
   - [GCCI Backend](https://github.com/themansabmir/gcciBackend)  
   - [ExamPrepAI](https://github.com/themansabmir/examdex-server)
 - 💡 Interested in **AI-powered SaaS, automation, and LLM-based products**
