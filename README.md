@@ -1,10 +1,10 @@
 <h1 align="center">Hi there 👋, I'm Mohit Lamba</h1>
-<h3 align="center">Full Stack Developer | GenAI Enthusiast | MERN + AI</h3>
+<h3 align="center">Full Stack Developer | AI Engineer</h3>
 
 <p align="center">
 🚀 Building production-ready web & AI-driven applications <br/>
 🇮🇳 Based in India <br/>
-🌱 Currently learning GenAI, Next.js & ML
+🌱 Currently learning Agentic AI, Next.js & ML
 </p>
 
 ---
@@ -14,11 +14,12 @@
 I'm a **passionate full stack developer** who loves building real-world products that combine  
 **scalable backend systems, clean frontend UX, and AI-powered features**.
 
-- 🔭 worked with **CodeChip Studios** on:  
+- 🔭 worked with **Ey and CodeChip Studios** on:
+  - [EY Customer Engagement Platform]
   - [GCCI Backend](https://github.com/themansabmir/gcciBackend)  
   - [ExamPrepAI](https://github.com/themansabmir/examdex-server)
 - 💡 Interested in **AI-powered SaaS, automation, and LLM-based products**
-- 💬 Ask me about **React, Node.js, MongoDB, GenAI, APIs**
+- 💬 Ask me about **React, Node.js, MongoDB, GenAI, APIs, TypeScript, Docker, Github Actions, PostgresSQL, Prisma, TanStack, Flutter**
 - 📫 Reach me at **mohitlamba43@gmail.com**
 - 🌐 Portfolio: **[my-portfolio-1ljb.vercel.app](https://my-portfolio-1ljb.vercel.app/)**
 
