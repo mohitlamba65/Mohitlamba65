@@ -15,7 +15,7 @@ I'm a **passionate full stack developer** who loves building real-world products
 **scalable backend systems, clean frontend UX, and AI-powered features**.
 
 - 🔭 worked with **Ey and CodeChip Studios** on:
-  - [EY Customer Engagement Platform]
+  - EY Customer Engagement Platform
   - [GCCI Backend](https://github.com/themansabmir/gcciBackend)  
   - [ExamPrepAI](https://github.com/themansabmir/examdex-server)
 - 💡 Interested in **AI-powered SaaS, automation, and LLM-based products**
